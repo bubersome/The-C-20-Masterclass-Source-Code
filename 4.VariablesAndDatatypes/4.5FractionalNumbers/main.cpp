@@ -8,6 +8,7 @@ int main(){
     //Declare and initialize the variables
     float number1 {1.12345678901234567890f}; // Precision : 7
     double number2 {1.12345678901234567890}; // Precision : 15
+    double numberx5 =1.12345678901234567890; // Precision : 15
     long double number3  {1.12345678901234567890L};
     
     //Print out the sizes

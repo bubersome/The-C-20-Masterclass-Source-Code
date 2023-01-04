@@ -5,3 +5,8 @@
 *.pdb
 *.obj
 *.ilk
+*.DS_Store
+.idea/
+main.dSYM/
+main
+CMakeLists.txt

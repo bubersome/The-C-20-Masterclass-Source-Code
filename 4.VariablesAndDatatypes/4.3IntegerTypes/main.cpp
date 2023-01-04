@@ -4,11 +4,11 @@
 int main(){
 
     //Braced initializers
-    /*
-    //Variable may contain random garbage value . WARNING
-    int elephant_count;
     
-    int lion_count{};//Initializes to zero
+    //Variable may contain random garbage value . WARNING
+   /*  int elephant_count;
+    
+    int lion_count{}; //Initializes to zero
     
     int dog_count {10}; //Initializes to 10
     
@@ -33,7 +33,7 @@ int main(){
 
 
    //Functional Initialization
-   /*
+   
     int apple_count(5);
     int orange_count(10);
     int fruit_count (apple_count + orange_count);
@@ -47,7 +47,7 @@ int main(){
     std::cout << "Orange count : " << orange_count << std::endl;
     std::cout << "Fruit count : " << fruit_count << std::endl;
     std::cout << "Narrowing conversion : " << narrowing_conversion_functional << std::endl;//Will loose info
-    */
+   
 
 
    //Assignment notation
