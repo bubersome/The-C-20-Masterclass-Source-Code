@@ -38,3 +38,17 @@ int main(){
     std::cout << "int digits : " << std::numeric_limits<int>::digits << std::endl;
     return 0;
 }
+
+/*
+The range for short is from -32768 to 32767
+The range for unsigned short is from 0 to 65535
+The range for int is from -2147483648 to 2147483647
+The range for unsigned int is from 0 to 4294967295
+The range for long is from -9223372036854775808 to 9223372036854775807
+The range for float is from 1.17549e-38 to 3.40282e+38
+The range(with lowest) for float is from -3.40282e+38 to 3.40282e+38
+The range(with lowest) for double is from -1.79769e+308 to 1.79769e+308
+The range(with lowest) for long double is from -1.79769e+308 to 1.79769e+308
+int is signed : 1
+int digits : 31
+ */

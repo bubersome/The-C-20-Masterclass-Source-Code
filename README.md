@@ -10,13 +10,13 @@ Learn modern C++ 20 programming in this comprehensive course
 
 ([3:00:47](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=10847s)) Chapter 3: Variables and data types Variables and data types Introduction (3:05:05)Number Systems (3:21:50)Integer types : Decimals and Integers Integer Modifiers Fractional Numbers (4:16:40)Booleans (4:24:50)Characters And Text (4:32:01)Auto (4:38:07)Assignments Variables and data types summary 
 
-([4:46:46](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=17206s)) Chapter 4: Operations on Data Introduction on Data operations Basic Operations Precedence and Associativity Prefix/Postfix Increment & Decrement Compound Assignment Operators Relational Operators Logical Operators Output formatting Numeric Limits Math Functions Weird Integral Types Data Operations Summary 
+([4:46:46](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=17206s)) Chapter 4: Operations on Data Introduction on Data operations Basic Operations Precedence and Associativity Prefix/Postfix Increment & Decrement (5:23:24) Compound Assignment Operators Relational Operators (5:40:50) Logical Operators (5:56:13) Output formatting Numeric Limits Math Functions (6:54:20) Weird Integral Types Data Operations Summary 
 
 ([7:01:58](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=25318s)) Chapter 5: Flow Control Flow Control Introduction If Statements Else If Switch Ternary Operators Flow Control Summary 
 
 ([7:53:49](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=28429s)) Chapter 6: Loops Loops Introduction For Loop While Loop Do While Loop 
 
-([8:47:08](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=31628s)) Chapter 7: Arrays Introduction to Arrays Declaring and using arrays Size of an array Arrays of characters Array Bounds 
+([8:47:08](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=31628s)) Chapter 7: Arrays Introduction to Arrays (8:48:53) Declaring and using arrays (8:48:53) Size of an array Arrays of characters Array Bounds 
 
 ([9:53:23](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=35603s)) Chapter 8: Pointers Introduction to Pointers Declaring and using pointers Pointer to char Program Memory Map Revisited Dynamic Memory Allocation Dangling Pointers When new Fails Null Pointer Safety Memory Leaks Dynamically allocated arrays 
 
